@@ -1,3 +1,4 @@
+#DATE:13-08-2025
 ## 1. Reverse a String (Without Built-in Reverse Functions)
 
 ```python
@@ -104,4 +105,5 @@ print("Character Frequency:", freq)
 Enter a string: mahendra kumar gorantla
 Character Frequency: {'m': 2, 'a': 5, 'h': 1, 'e': 1, 'n': 2, 'd': 1, 'r': 3, ' ': 2, 'k': 1, 'u': 1, 'g': 1, 'o': 1, 't': 1, 'l': 1}
 ```
+
 
